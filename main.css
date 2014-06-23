@@ -197,7 +197,7 @@ margin: 0 50px;
   }
 }
 
-@media screen and (max-width: 481px) {
+@media screen and (max-width: 568px) {
 	section {
 		height: auto;
 	}
